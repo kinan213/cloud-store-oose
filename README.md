@@ -2,6 +2,8 @@
 
 Analysis and design of a scalable global e-commerce platform that unifies online shopping with integrated delivery logistics.
 
+*Individual project — all analysis, modeling, and documentation by me.*
+
 ## Problem
 The grocery and delivery market is fragmented: limited global reach, inconsistent delivery windows, poor stock visibility, and opaque tracking. Businesses struggle with inefficient logistics, global inventory scaling, and a lack of consolidated performance data.
 
@@ -50,5 +52,5 @@ A single, highly available platform connecting customers, store managers, delive
 ### BPMN — Inventory Restock Management
 ![BPMN inventory restock](bpmn-inventory-restock.jpeg)
 
-## Project Notes
-📄 [Original analysis notes (handwritten)](Cloud_Store_Report.pdf)
+## Full Report
+📄 [Cloud Store — Analysis & Design Report](Cloud_Store_Report.pdf)
